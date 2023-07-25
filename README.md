@@ -1,5 +1,6 @@
 # ShoppingCart
-Problem Statement
+Problem Statement :
+
 Using Java, write a simple program that calculates the price of a basket of shopping.
 
 The solution should be accomplished in roughly two hours.
